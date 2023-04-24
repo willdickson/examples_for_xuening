@@ -6,13 +6,12 @@
 
 2. Open the windows command prompt (command line) and change directory using
    the "cd" command so that this directory containing hello_world.py is the
-   current directory as shown in the example below. 
+   current directory. 
 
 ![change_directory](images/change_directory.png)
 
 3. Note, you can list the contents of the current directory using the "dir"
-   command. You should see the hello_world.py file in the output as shown
-   below. 
+   command. You should see the hello_world.py file in the output. 
 
 ![run_dir_to_show_file](images/run_dir_to_show_file.png)
 
@@ -20,3 +19,5 @@
    command line. The output should look like that shown below. 
 
 ![run_from_the_command_line](images/run_from_the_command_line.png)
+
+
