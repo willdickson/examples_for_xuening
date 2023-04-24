@@ -10,8 +10,9 @@
 
 ![change_directory](images/change_directory.png)
 
-3. Note, you can list the contents of the current directory using the "dir" command.  
-   You should see the hello_world.py file in the output as shown below. 
+3. Note, you can list the contents of the current directory using the "dir"
+   command. You should see the hello_world.py file in the output as shown
+   below. 
 
 ![run_dir_to_show_file](images/run_dir_to_show_file.png)
 
