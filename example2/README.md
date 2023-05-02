@@ -18,6 +18,7 @@ calls the say_hello and count functions defined in that module.
    on the command line from the example2 directory. The output should look like
    that shown below. 
 
-#![run_from_the_command_line](images/run_from_the_command_line.png)
+#![example2_screenshot](images/example2_screenshot.png)
+
 
 
